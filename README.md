@@ -1,5 +1,5 @@
 # Pass PR Tests For Ape
-Lazy way to make sure that the ape PR tests doesn't fail
+Lazy way to make sure that the ape PR tests don't fail
 
 # Usage
 ```bash
